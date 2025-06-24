@@ -1,1 +1,12 @@
 
+{
+  "name": "trilha-cypress-api-automation",
+  "version": "1.0.0",
+  "description": "Projeto para CI/CD com Cypress e GitHub Actions",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.5.0"
+  }
+}
