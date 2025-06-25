@@ -10,3 +10,6 @@
     "cypress": "^13.5.0"
   }
 }
+"scripts": {
+  "verificar-senhas": "node scripts/seguranca.js"
+}
